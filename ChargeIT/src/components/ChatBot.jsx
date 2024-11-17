@@ -432,7 +432,7 @@
 //     // Default chatbot behavior using Gemini API
 //     try {
 //       const response = await axios.post(
-//         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDk7IL8VsBlTvyf6_x_l4nJ5tGC82jFHqU",
+//         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?",
 //         {
 //           contents: [{ parts: [{ text: message }] }],
 //         }
